@@ -1,52 +1,42 @@
-### README — Café Alma
+# Café Alma — Café & Lectura
 
-Archivo:
+Sitio web para una cafetería enfocada en café, lectura y una experiencia tranquila, con diseño editorial y reservas mediante WhatsApp.
 
-`README.md`
+**Ver demo:** https://jeremias123r.github.io/Cafe-alma/
 
-Contenido:
+## Qué hace
 
-```markdown
-# Café Alma | Café & Lectura
+- Presenta la propuesta de la cafetería y su concepto de café y lectura.
+- Sección principal con presentación del espacio.
+- Menú de bebidas y productos.
+- Descripciones de los productos mediante interacción.
+- Sección de repostería y especialidades.
+- Presentación del ambiente de la cafetería.
+- Sección dedicada al espacio de lectura.
+- Reserva de mesa mediante WhatsApp.
+- Diseño responsive para celular, tablet y computadora.
+- Navegación adaptada a diferentes tamaños de pantalla.
 
-Sitio web editorial para un café inspirado en la lectura, el café y los espacios tranquilos.
+## Tecnologías
 
-## Descripción
+HTML, CSS y JavaScript · GitHub Pages
 
-Café Alma es mi segundo proyecto de portafolio frontend.
+## Datos y privacidad
 
-A diferencia de mi primer proyecto, en este proyecto trabajé más en la composición visual, tipografía, experiencia responsive e interacción con JavaScript.
+El proyecto es una demostración de una página web para una cafetería.
 
-La intención fue crear una página con identidad propia, evitando el estilo genérico de las páginas creadas automáticamente con plantillas.
+No recopila ni almacena datos personales de clientes.
 
-## Tecnologías utilizadas
+Las reservas se realizan directamente mediante WhatsApp.
 
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
+## Pendiente
 
-## Características
+- Incorporar un sistema de reservas propio.
+- Conectar el formulario de reservas con una base de datos.
+- Incorporar panel administrativo.
+- Añadir gestión dinámica del menú.
+- Incorporar autenticación para administración.
 
-- Diseño responsive
-- Estética editorial
-- Sección principal
-- Menú interactivo
-- Sección de repostería
-- Espacio de lectura
-- Biblioteca
-- Imágenes de ambiente
-- Botón de reserva mediante WhatsApp
-- Interacción con JavaScript
+## Autor
 
-## Estructura
-
-```text
-CAFE ALMA/
-├── index.html
-├── style.css
-├── script.js
-└── images/
-    ├── cafe.jpg
-    ├── ambiente.jpg
-    └── lectura.jpg
+Jeremías Robles Ochoa
